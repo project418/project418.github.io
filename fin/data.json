@@ -2,7 +2,7 @@
     "_metadata": {
         "pageNumber": 1,
         "pageSize": 25,
-        "totalRecordCount": 20
+        "totalRecordCount": 10
     },
     "discovery": [
         {
@@ -129,6 +129,363 @@
                 "description": "",
                 "image": "https://storage.project418.co/fin/3/3.jpg",
                 "video": "https://storage.project418.co/fin/3/3.mp4",
+                "operationCode": "7cb2629b5a1d83d80fba322dbb7529d9",
+                "startingDate": "1995-01-01T00:00:00.000Z",
+                "influencerId": 5604,
+                "tags": [],
+                "hasSpecialOffer": false,
+                "realViewer": 11,
+                "virtualViewer": 32,
+                "replayAvailable": false,
+                "createOn": "2022-12-07T06:47:42.003Z",
+                "interest": [
+                    12,
+                    15
+                ],
+                "user": {
+                    "userId": 5600,
+                    "username": "ugurcansokenn",
+                    "fullName": "Uğurcan Söken",
+                    "image": null,
+                    "type": 2
+                },
+                "influencer": {
+                    "userId": 5604,
+                    "username": "ugurcanyayinci",
+                    "fullName": "Uğurcan yayinci",
+                    "image": null,
+                    "type": 3
+                }
+            }
+        },
+        {
+            "discoveryId": 4,
+            "userId": null,
+            "type": 2,
+            "status": 0,
+            "score": 0,
+            "eventId": 1000237,
+            "viewType": 0,
+            "_id": "4",
+            "event": {
+                "eventId": 1000237,
+                "isActive": true,
+                "isPinned": false,
+                "userId": 5600,
+                "categoryId": 20,
+                "groupId": null,
+                "status": 0,
+                "type": 2,
+                "title": "Kripto Paraya Bakış Açınızı Değiştirecek Filmler",
+                "description": "",
+                "image": "https://storage.project418.co/fin/4/4.jpg",
+                "video": "https://storage.project418.co/fin/4/4.mp4",
+                "operationCode": "7cb2629b5a1d83d80fba322dbb7529d9",
+                "startingDate": "1995-01-01T00:00:00.000Z",
+                "influencerId": 5604,
+                "tags": [],
+                "hasSpecialOffer": false,
+                "realViewer": 11,
+                "virtualViewer": 32,
+                "replayAvailable": false,
+                "createOn": "2022-12-07T06:47:42.003Z",
+                "interest": [
+                    12,
+                    15
+                ],
+                "user": {
+                    "userId": 5600,
+                    "username": "ugurcansokenn",
+                    "fullName": "Uğurcan Söken",
+                    "image": null,
+                    "type": 2
+                },
+                "influencer": {
+                    "userId": 5604,
+                    "username": "ugurcanyayinci",
+                    "fullName": "Uğurcan yayinci",
+                    "image": null,
+                    "type": 3
+                }
+            }
+        },
+        {
+            "discoveryId": 5,
+            "userId": null,
+            "type": 2,
+            "status": 0,
+            "score": 0,
+            "eventId": 1000237,
+            "viewType": 0,
+            "_id": "5",
+            "event": {
+                "eventId": 1000237,
+                "isActive": true,
+                "isPinned": false,
+                "userId": 5600,
+                "categoryId": 20,
+                "groupId": null,
+                "status": 0,
+                "type": 2,
+                "title": "Çekmece Unutulan Bitcoinler",
+                "description": "",
+                "image": "https://storage.project418.co/fin/5/5.jpg",
+                "video": "https://storage.project418.co/fin/5/5.mp4",
+                "operationCode": "7cb2629b5a1d83d80fba322dbb7529d9",
+                "startingDate": "1995-01-01T00:00:00.000Z",
+                "influencerId": 5604,
+                "tags": [],
+                "hasSpecialOffer": false,
+                "realViewer": 11,
+                "virtualViewer": 32,
+                "replayAvailable": false,
+                "createOn": "2022-12-07T06:47:42.003Z",
+                "interest": [
+                    12,
+                    15
+                ],
+                "user": {
+                    "userId": 5600,
+                    "username": "ugurcansokenn",
+                    "fullName": "Uğurcan Söken",
+                    "image": null,
+                    "type": 2
+                },
+                "influencer": {
+                    "userId": 5604,
+                    "username": "ugurcanyayinci",
+                    "fullName": "Uğurcan yayinci",
+                    "image": null,
+                    "type": 3
+                }
+            }
+        },
+        {
+            "discoveryId": 6,
+            "userId": null,
+            "type": 2,
+            "status": 0,
+            "score": 0,
+            "eventId": 1000237,
+            "viewType": 0,
+            "_id": "6",
+            "event": {
+                "eventId": 1000237,
+                "isActive": true,
+                "isPinned": false,
+                "userId": 5600,
+                "categoryId": 20,
+                "groupId": null,
+                "status": 0,
+                "type": 2,
+                "title": "Amerika'da Gayrimenkul Yatırımı",
+                "description": "",
+                "image": "https://storage.project418.co/fin/6/6.jpg",
+                "video": "https://storage.project418.co/fin/6/6.mp4",
+                "operationCode": "7cb2629b5a1d83d80fba322dbb7529d9",
+                "startingDate": "1995-01-01T00:00:00.000Z",
+                "influencerId": 5604,
+                "tags": [],
+                "hasSpecialOffer": false,
+                "realViewer": 11,
+                "virtualViewer": 32,
+                "replayAvailable": false,
+                "createOn": "2022-12-07T06:47:42.003Z",
+                "interest": [
+                    12,
+                    15
+                ],
+                "user": {
+                    "userId": 5600,
+                    "username": "ugurcansokenn",
+                    "fullName": "Uğurcan Söken",
+                    "image": null,
+                    "type": 2
+                },
+                "influencer": {
+                    "userId": 5604,
+                    "username": "ugurcanyayinci",
+                    "fullName": "Uğurcan yayinci",
+                    "image": null,
+                    "type": 3
+                }
+            }
+        },
+        {
+            "discoveryId": 7,
+            "userId": null,
+            "type": 2,
+            "status": 0,
+            "score": 0,
+            "eventId": 1000237,
+            "viewType": 0,
+            "_id": "7",
+            "event": {
+                "eventId": 1000237,
+                "isActive": true,
+                "isPinned": false,
+                "userId": 5600,
+                "categoryId": 20,
+                "groupId": null,
+                "status": 0,
+                "type": 2,
+                "title": "Türkiye'nin Kripto Ekosistemi",
+                "description": "",
+                "image": "https://storage.project418.co/fin/7/7.jpg",
+                "video": "https://storage.project418.co/fin/7/7.mp4",
+                "operationCode": "7cb2629b5a1d83d80fba322dbb7529d9",
+                "startingDate": "1995-01-01T00:00:00.000Z",
+                "influencerId": 5604,
+                "tags": [],
+                "hasSpecialOffer": false,
+                "realViewer": 11,
+                "virtualViewer": 32,
+                "replayAvailable": false,
+                "createOn": "2022-12-07T06:47:42.003Z",
+                "interest": [
+                    12,
+                    15
+                ],
+                "user": {
+                    "userId": 5600,
+                    "username": "ugurcansokenn",
+                    "fullName": "Uğurcan Söken",
+                    "image": null,
+                    "type": 2
+                },
+                "influencer": {
+                    "userId": 5604,
+                    "username": "ugurcanyayinci",
+                    "fullName": "Uğurcan yayinci",
+                    "image": null,
+                    "type": 3
+                }
+            }
+        },
+        {
+            "discoveryId": 8,
+            "userId": null,
+            "type": 2,
+            "status": 0,
+            "score": 0,
+            "eventId": 1000237,
+            "viewType": 0,
+            "_id": "8",
+            "event": {
+                "eventId": 1000237,
+                "isActive": true,
+                "isPinned": false,
+                "userId": 5600,
+                "categoryId": 20,
+                "groupId": null,
+                "status": 0,
+                "type": 2,
+                "title": "Kripto'da En Karlı Alanlar",
+                "description": "",
+                "image": "https://storage.project418.co/fin/8/8.jpg",
+                "video": "https://storage.project418.co/fin/8/8.mp4",
+                "operationCode": "7cb2629b5a1d83d80fba322dbb7529d9",
+                "startingDate": "1995-01-01T00:00:00.000Z",
+                "influencerId": 5604,
+                "tags": [],
+                "hasSpecialOffer": false,
+                "realViewer": 11,
+                "virtualViewer": 32,
+                "replayAvailable": false,
+                "createOn": "2022-12-07T06:47:42.003Z",
+                "interest": [
+                    12,
+                    15
+                ],
+                "user": {
+                    "userId": 5600,
+                    "username": "ugurcansokenn",
+                    "fullName": "Uğurcan Söken",
+                    "image": null,
+                    "type": 2
+                },
+                "influencer": {
+                    "userId": 5604,
+                    "username": "ugurcanyayinci",
+                    "fullName": "Uğurcan yayinci",
+                    "image": null,
+                    "type": 3
+                }
+            }
+        },
+        {
+            "discoveryId": 9,
+            "userId": null,
+            "type": 2,
+            "status": 0,
+            "score": 0,
+            "eventId": 1000237,
+            "viewType": 0,
+            "_id": "9",
+            "event": {
+                "eventId": 1000237,
+                "isActive": true,
+                "isPinned": false,
+                "userId": 5600,
+                "categoryId": 20,
+                "groupId": null,
+                "status": 0,
+                "type": 2,
+                "title": "Ücretsiz 1.000.000 Dolar Dağıtılıyor!",
+                "description": "",
+                "image": "https://storage.project418.co/fin/9/9.jpg",
+                "video": "https://storage.project418.co/fin/9/9.mp4",
+                "operationCode": "7cb2629b5a1d83d80fba322dbb7529d9",
+                "startingDate": "1995-01-01T00:00:00.000Z",
+                "influencerId": 5604,
+                "tags": [],
+                "hasSpecialOffer": false,
+                "realViewer": 11,
+                "virtualViewer": 32,
+                "replayAvailable": false,
+                "createOn": "2022-12-07T06:47:42.003Z",
+                "interest": [
+                    12,
+                    15
+                ],
+                "user": {
+                    "userId": 5600,
+                    "username": "ugurcansokenn",
+                    "fullName": "Uğurcan Söken",
+                    "image": null,
+                    "type": 2
+                },
+                "influencer": {
+                    "userId": 5604,
+                    "username": "ugurcanyayinci",
+                    "fullName": "Uğurcan yayinci",
+                    "image": null,
+                    "type": 3
+                }
+            }
+        },
+        {
+            "discoveryId": 10,
+            "userId": null,
+            "type": 2,
+            "status": 0,
+            "score": 0,
+            "eventId": 1000237,
+            "viewType": 0,
+            "_id": "10",
+            "event": {
+                "eventId": 1000237,
+                "isActive": true,
+                "isPinned": false,
+                "userId": 5600,
+                "categoryId": 20,
+                "groupId": null,
+                "status": 0,
+                "type": 2,
+                "title": "Bitcoin Uçuşa mı Geçiyor?",
+                "description": "",
+                "image": "https://storage.project418.co/fin/10/10.jpg",
+                "video": "https://storage.project418.co/fin/10/10.mp4",
                 "operationCode": "7cb2629b5a1d83d80fba322dbb7529d9",
                 "startingDate": "1995-01-01T00:00:00.000Z",
                 "influencerId": 5604,
